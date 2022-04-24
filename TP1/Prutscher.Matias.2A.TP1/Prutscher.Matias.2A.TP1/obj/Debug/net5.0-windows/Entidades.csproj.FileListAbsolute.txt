@@ -1,0 +1,16 @@
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\Entidades.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\Entidades.AssemblyInfoInputs.cache
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\Entidades.AssemblyInfo.cs
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\bin\Debug\net5.0-windows\Entidades.exe
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\bin\Debug\net5.0-windows\Entidades.deps.json
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\bin\Debug\net5.0-windows\Entidades.runtimeconfig.json
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\bin\Debug\net5.0-windows\Entidades.runtimeconfig.dev.json
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\bin\Debug\net5.0-windows\ref\Entidades.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\Entidades.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\ref\Entidades.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP1\Prutscher.Matias.2A.TP1\obj\Debug\net5.0-windows\Entidades.genruntimeconfig.cache
