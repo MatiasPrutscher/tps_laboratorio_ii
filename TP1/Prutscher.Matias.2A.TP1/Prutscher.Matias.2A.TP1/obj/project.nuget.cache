@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zy5DEThVSqHufeZTZ6/1oANH8AyrzbmNWod8SuBeHiy/cbWF+lGlngX8g5kZBDRojih1rh2LUZNdwp0vZ9krzg==",
+  "dgSpecHash": "V1qDagFHuGn4+eiX4ravUyoj3cUVl0Lcgi8OK0FBZ7zWaGgyiRRQ48omD9VrMTulm4FGDE/Qyw6GVPbozngAyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maty\\source\\repos\\Prutscher.Matias.2A.TP1\\Prutscher.Matias.2A.TP1\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\Maty\\Documents\\GitHub\\tps_laboratorio_ii\\TP1\\Prutscher.Matias.2A.TP1\\Prutscher.Matias.2A.TP1\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
