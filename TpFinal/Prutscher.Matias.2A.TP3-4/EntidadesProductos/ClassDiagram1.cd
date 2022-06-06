@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EntidadesProductos.Auriculares" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAIBAAACAAEAAAAAAAAAQAAAAEAAAAAAAAAAAQ=</HashCode>
+      <FileName>Auriculares.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EntidadesProductos.Microfonos" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAIBAAACAAEAAAAAAAAAQAAAAEAAAAAAAAAAAQ=</HashCode>
+      <FileName>Microfonos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EntidadesProductos.Monitores" Collapsed="true">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAgAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monitores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesProductos.MouseYTeclados" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>MouseYTeclados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EntidadesProductos.Parlantes" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAIAAAACAAEAAAAAAAAAAAAAAAAAAAAAABAAAQ=</HashCode>
+      <FileName>Parlantes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EntidadesProductos.Producto" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAEAAAAAAACEAAAAgAAQAAAAEAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EntidadesProductos.IProductos" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>IProductos.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ERubro" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAJAAAAAIAAAAAACAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>ERubro.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ETipo" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>ETipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

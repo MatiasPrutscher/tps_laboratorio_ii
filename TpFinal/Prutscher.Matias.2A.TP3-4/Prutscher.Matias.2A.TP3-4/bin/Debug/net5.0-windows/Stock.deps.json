@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Stock/1.0.0": {
+        "dependencies": {
+          "EntidadesProductos": "1.0.0"
+        },
+        "runtime": {
+          "Stock.dll": {}
+        }
+      },
+      "EntidadesProductos/1.0.0": {
+        "runtime": {
+          "EntidadesProductos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesProductos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

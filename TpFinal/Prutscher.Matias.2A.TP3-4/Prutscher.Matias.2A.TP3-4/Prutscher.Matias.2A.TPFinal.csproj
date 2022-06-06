@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Prutscher.Matias._2A.TP3_4</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Archivos\Archivos.csproj" />
+    <ProjectReference Include="..\Consulta\Consulta.csproj" />
+    <ProjectReference Include="..\EntidadesCliente\EntidadesCliente.csproj" />
+    <ProjectReference Include="..\EntidadesFacturacion\EntidadesFacturacion.csproj" />
+    <ProjectReference Include="..\EntidadesProductos\EntidadesProductos.csproj" />
+    <ProjectReference Include="..\Facturacion\Facturacion.csproj" />
+    <ProjectReference Include="..\Stock\Stock.csproj" />
+  </ItemGroup>
+
+</Project>

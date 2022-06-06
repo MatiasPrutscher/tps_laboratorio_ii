@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Prutscher.Matias.2A.TPFinal/1.0.0": {
+        "dependencies": {
+          "Archivos": "1.0.0",
+          "Consulta": "1.0.0",
+          "EntidadesCliente": "1.0.0",
+          "EntidadesFacturacion": "1.0.0",
+          "EntidadesProductos": "1.0.0",
+          "Facturacion": "1.0.0",
+          "Stock": "1.0.0"
+        },
+        "runtime": {
+          "Prutscher.Matias.2A.TPFinal.dll": {}
+        }
+      },
+      "Archivos/1.0.0": {
+        "runtime": {
+          "Archivos.dll": {}
+        }
+      },
+      "Consulta/1.0.0": {
+        "dependencies": {
+          "EntidadesProductos": "1.0.0"
+        },
+        "runtime": {
+          "Consulta.dll": {}
+        }
+      },
+      "EntidadesCliente/1.0.0": {
+        "runtime": {
+          "EntidadesCliente.dll": {}
+        }
+      },
+      "EntidadesFacturacion/1.0.0": {
+        "dependencies": {
+          "EntidadesCliente": "1.0.0",
+          "EntidadesProductos": "1.0.0"
+        },
+        "runtime": {
+          "EntidadesFacturacion.dll": {}
+        }
+      },
+      "EntidadesProductos/1.0.0": {
+        "runtime": {
+          "EntidadesProductos.dll": {}
+        }
+      },
+      "Facturacion/1.0.0": {
+        "dependencies": {
+          "EntidadesCliente": "1.0.0",
+          "EntidadesFacturacion": "1.0.0",
+          "EntidadesProductos": "1.0.0"
+        },
+        "runtime": {
+          "Facturacion.dll": {}
+        }
+      },
+      "Stock/1.0.0": {
+        "dependencies": {
+          "EntidadesProductos": "1.0.0"
+        },
+        "runtime": {
+          "Stock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prutscher.Matias.2A.TPFinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Consulta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesCliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesFacturacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesProductos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Facturacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

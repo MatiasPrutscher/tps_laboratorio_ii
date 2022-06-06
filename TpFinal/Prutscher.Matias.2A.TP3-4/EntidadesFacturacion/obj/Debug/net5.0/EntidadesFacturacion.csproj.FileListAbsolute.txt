@@ -1,0 +1,17 @@
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\bin\Debug\net5.0\EntidadesFacturacion.deps.json
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\bin\Debug\net5.0\EntidadesFacturacion.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\bin\Debug\net5.0\ref\EntidadesFacturacion.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\bin\Debug\net5.0\EntidadesFacturacion.pdb
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\bin\Debug\net5.0\EntidadesCliente.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\bin\Debug\net5.0\EntidadesProductos.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\bin\Debug\net5.0\EntidadesCliente.pdb
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\bin\Debug\net5.0\EntidadesProductos.pdb
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\EntidadesFacturacion.csproj.AssemblyReference.cache
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\EntidadesFacturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\EntidadesFacturacion.AssemblyInfoInputs.cache
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\EntidadesFacturacion.AssemblyInfo.cs
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\EntidadesFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\EntidadesFacturacion.csproj.CopyComplete
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\EntidadesFacturacion.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\ref\EntidadesFacturacion.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesFacturacion\obj\Debug\net5.0\EntidadesFacturacion.pdb

@@ -1,0 +1,12 @@
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\obj\Debug\net5.0\EntidadesProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\obj\Debug\net5.0\EntidadesProductos.AssemblyInfoInputs.cache
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\obj\Debug\net5.0\EntidadesProductos.AssemblyInfo.cs
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\obj\Debug\net5.0\EntidadesProductos.csproj.CoreCompileInputs.cache
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\bin\Debug\net5.0\EntidadesProductos.deps.json
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\bin\Debug\net5.0\EntidadesProductos.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\bin\Debug\net5.0\ref\EntidadesProductos.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\bin\Debug\net5.0\EntidadesProductos.pdb
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\obj\Debug\net5.0\EntidadesProductos.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\obj\Debug\net5.0\ref\EntidadesProductos.dll
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\obj\Debug\net5.0\EntidadesProductos.pdb
+C:\Users\Maty\source\repos\Prutscher.Matias.2A.TP3-4\EntidadesProductos\obj\Debug\net5.0\EntidadesProductos.csproj.AssemblyReference.cache
